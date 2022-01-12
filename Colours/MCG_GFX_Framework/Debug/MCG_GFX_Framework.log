@@ -1,0 +1,10 @@
+﻿  MCG_GFX_Lib.cpp
+  Main.cpp
+c:\users\paulina\desktop\maths_assignment\maths_50-60precent\mcg_gfx_framework\main.cpp(56): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\paulina\desktop\maths_assignment\maths_50-60precent\mcg_gfx_framework\main.cpp(57): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\paulina\desktop\maths_assignment\maths_50-60precent\mcg_gfx_framework\main.cpp(101): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\paulina\desktop\maths_assignment\maths_50-60precent\mcg_gfx_framework\main.cpp(102): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\paulina\desktop\maths_assignment\maths_50-60precent\mcg_gfx_framework\main.cpp(118): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\paulina\desktop\maths_assignment\maths_50-60precent\mcg_gfx_framework\main.cpp(119): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  MCG_GFX_Framework.vcxproj -> C:\Users\Paulina\Desktop\Maths_assignment\Maths_50-60precent\Debug\MCG_GFX_Framework.exe
